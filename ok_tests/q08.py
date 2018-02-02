@@ -12,7 +12,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
         
                {
           'code': r"""
@@ -22,7 +22,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
       
                {
           'code': r"""
@@ -32,9 +32,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
-    
-               
+        }       
       ],
       'scored': True,
       'setup': '',

@@ -12,8 +12,8 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        
-        }
+        },
+
                {
           'code': r"""
           >>> import numpy as np
@@ -22,7 +22,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
                
                {
           'code': r"""
@@ -32,7 +32,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
 
                {
           'code': r"""
