@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>>
+          >>> KoverL41 = 25
           True
           """,
           'hidden': False,

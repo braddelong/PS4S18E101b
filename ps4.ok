@@ -1,8 +1,8 @@
 {
-  "name": "Intro Notebook",
-  "endpoint": "cal/econ101b/sp18/pset2",
+  "name": "PS4 Notebook",
+  "endpoint": "cal/econ101b/sp18/PS4",
   "src": [
-    "Problem Set 2.ipynb"
+    "PS4.ipynb"
   ],
   "tests": {
       "ok_tests/q*.py": "ok_test"

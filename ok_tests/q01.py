@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>>
+          >>> Sweden_surpasses = 1931
           True
           """,
           'hidden': False,
