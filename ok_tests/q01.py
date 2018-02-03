@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> import numpy as np
-          np.isclose(Sweden_surpasses, 1931)
+          >>> np.isclose(Sweden_surpasses, 1931)
           True
           """,
           'hidden': False,
